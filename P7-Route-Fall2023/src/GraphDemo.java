@@ -2,8 +2,6 @@
  * Demonstrates the calculation of shortest paths in the US Highway
  * network, showing the functionality of GraphProcessor and using
  * Visualize
- * @author Owen Astrachan (preliminary)
- * TO DO: Add your name(s) as authors
  */
 import java.util.*;
 import java.io.*;
